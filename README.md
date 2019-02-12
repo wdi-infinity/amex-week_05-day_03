@@ -1,4 +1,4 @@
-# JS forEach(), map(), and filter()
+# JS forEach(), map(), filter(), and Arrow Functions
 
 
 ## `.forEach()` [read more here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
@@ -24,7 +24,7 @@ var numsSquared = [];
 var nums = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 var isDivisibleBy3 = [];
 
-// Use .map() to find out the numbers that are divisible by 3 and store the value in isDivisibleBy3
+// Use .filter() to find out the numbers that are divisible by 3 and store the value in isDivisibleBy3
 // isDivisibleBy3 => [3, 6, 9]
 ```
 
