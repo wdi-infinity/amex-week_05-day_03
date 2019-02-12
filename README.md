@@ -63,4 +63,4 @@ const stringNumbers = ["103440", "3799.2663", "3.14159265359", "859494", "59439"
 let totalNumbersUnder4000 = 0;
 
 // Convert numbers from strings to numbers and sum all numbers under 4000 and store them in totalNumbersUnder4000
-// totalNumbersUnder4000 => [103440, 859494, 59439]
+// totalNumbersUnder4000 => 3802.4078926536
